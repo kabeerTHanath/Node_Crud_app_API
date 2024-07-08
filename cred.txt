@@ -1,0 +1,9 @@
+
+
+mondo Atlas cred
+
+usernam  ::      admin
+
+Password  ::  kBG9XhbpJ2qHeOWr
+
+mongodb+srv://admin:kBG9XhbpJ2qHeOWr@backenddb.dq2incf.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
